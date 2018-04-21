@@ -1,0 +1,64 @@
+.tm-page {
+    background: #F5F7FB;
+}
+.tm-header {
+    background: #fff;
+}
+.tm-header-bar {
+    padding: 1rem 0;
+    border-bottom: 1px solid #E1E5ED;
+}
+.tm-header-brand-img {
+    height: 32px;
+    width: auto;
+}
+.tm-bell {
+    min-width: 2rem;
+    height: 32px;
+    line-height: 32px;
+    display: block;
+    text-align: center;
+    padding: 0 0.75rem;
+}
+.tm-bell .tm-unread{    
+    position: absolute;
+    top: .25rem;
+    right: .8rem;
+    background: #cd201f;
+    width: .5rem;
+    height: .5rem;
+    border-radius: 50%;
+}
+.tm-username {
+    line-height: 17px;
+    padding: 0;
+    margin: 0;
+}
+.tm-role {
+    line-height: 13px!important;
+}
+a:hover{
+    text-decoration:none;
+}
+
+.tm-header-navbar {
+    border-bottom: 1px solid #E1E5ED;
+    background: #fff!important;
+}
+
+.tm-header-search {
+    width: 333px;
+}
+
+
+.tm-footer {
+    background: #fff;
+}
+
+.tm-widget {
+    padding: 1.5rem 0;
+    border-bottom: 1px solid #E1E5ED;
+}
+.tm-footer-copyright {
+    margin-top: 20px;
+}
